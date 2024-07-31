@@ -295,6 +295,10 @@ img {
     &_nav {
         @include flex_justifycontent_alignitems_gap(space-between, center, 7px);
         &_button {
+            display: block;
+            background-color: white;
+            text-align: center;
+            align-content: center;
             width: 32px;
             height: 32px;
             &:hover path {

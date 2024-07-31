@@ -376,6 +376,10 @@ img {
   gap: 7px;
 }
 .footer_nav_button {
+  display: block;
+  background-color: white;
+  text-align: center;
+  align-content: center;
   width: 32px;
   height: 32px;
 }
